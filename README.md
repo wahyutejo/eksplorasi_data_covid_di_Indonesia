@@ -1,7 +1,9 @@
 # project_data
 Meng-eksplorasi Data Covid-19 dari <a href="https://covid19.go.id/">covid19.go.id</a>
 
-Data ini berfokus di Provinsi Jawa Barat tetapi bisa juga diaplikasikan untuk daerah lainnya
+Data ini berfokus di Provinsi Jawa Barat tetapi bisa juga diaplikasikan untuk daerah lainnya</b>
+
+Data kedua sudah diaplikasikan untuk wilayah Jawa Tengah
 
 <b>Library yang digunakan</b>
 
